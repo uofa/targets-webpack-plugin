@@ -1,12 +1,11 @@
 {
-  "name": "targets-webpack-plugin",
+  "name": "uofa-targets-webpack-plugin",
   "version": "3.0.0",
   "author": {
-    "name": "Adam Stankiewicz",
-    "email": "sheerun@sher.pl",
-    "url": "https://sheerun.net"
+    "name": "University of Aberdeen",
+    "url": "https://www.abdn.ac.uk"
   },
-  "description": "Webpack plugin for logacy browser transcompilation (including dependencies)",
+  "description": "Webpack plugin for legacy browser transcompilation (including dependencies)",
   "main": "index.js",
   "engines": {
     "node": ">=8"
