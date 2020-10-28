@@ -13,7 +13,7 @@
   "dependencies": {
     "@babel/core": "^7",
     "@babel/preset-env": "^7",
-    "@rollup/plugin-commonjs": "^9.3.4",
+    "@rollup/plugin-commonjs": "^16.0.0",
     "@rollup/plugin-node-resolve": "^4.2.3",
     "core-js": "^3.0.1",
     "rollup": "^1.10.0",
